@@ -3,7 +3,7 @@ package formationnetbeans_exo1;
 import java.util.Scanner;
 
 public class FFdebugTest {
-
+// commit par pauline
     private int[] myArray;
     private int myInt;
     private boolean myBoolean;
